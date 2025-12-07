@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "PPPP",
+  "base_artist": "TAK",
+  "createdAt": "2025-12-07T11:33:39.626035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EN EL GHETTO #1 (PPPP)",
+      "artist": "Ghetto Kids feat. Ingratax & Sandro Malandro",
+      "has_synced": true,
+      "path": "select/01_EN_EL_GHETTO__1_(PPPP)_Ghetto_Kids_feat._Ingratax_&_Sandro_Malandro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "EN EL GHETTO #1 (PPPP)",
+      "artist": "Ghetto Kids/Ingratax/Sandro Malandro",
+      "has_synced": true,
+      "path": "select/02_EN_EL_GHETTO__1_(PPPP)_Ghetto_Kids_Ingratax_Sandro_Malandro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PPPP PaPiPuPePo",
+      "artist": "emamouse",
+      "has_synced": true,
+      "path": "select/03_PPPP_PaPiPuPePo_emamouse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "EN EL GHETTO #1 (PPPP)",
+      "artist": "Ghetto Kids",
+      "has_synced": true,
+      "path": "select/04_EN_EL_GHETTO__1_(PPPP)_Ghetto_Kids.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/05_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_TAK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK, 初音ミク, Kasane Teto",
+      "has_synced": true,
+      "path": "select/06_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_TAK,_初音ミク,_Kasane_Teto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PPPP",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/07_PPPP_TAK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "Tak; Hatsune Miku; Kasane Teto",
+      "has_synced": true,
+      "path": "select/08_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_Tak;_Hatsune_Miku;_Kasane_Teto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PPPP (feat. Hatsune Miku & Kasane Teto)",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/09_PPPP_(feat._Hatsune_Miku_&_Kasane_Teto)_TAK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK, 初音ミク, Kasane Teto",
+      "has_synced": false,
+      "path": "select/pl_01_PPPP_(feat._Hatsune_Miku,_Kasane_Teto)_TAK,_初音ミク,_Kasane_Teto.txt"
+    }
+  ]
+}
